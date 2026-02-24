@@ -5,7 +5,7 @@ A modern Android music player built with **Jetpack Compose**, **MVVM**, and **Hi
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The app follows **MVVM** with a clear separation of concerns.
 
@@ -50,7 +50,7 @@ The `ViewModel` owns `MediaPlayer` but a `Service` is needed to keep the process
 
 ---
 
-## 🌊 Waveform — Implementation Approach
+## Waveform — Implementation Approach
 
 The waveform is built from **real PCM audio data**, not random/fake values.
 
@@ -80,7 +80,7 @@ Canvas          →  drawn as rounded RoundRect bars, active/inactive colored by
 
 ---
 
-## 🎚️ Equalizer — Implementation Approach
+## Equalizer — Implementation Approach
 
 Uses Android's built-in **`android.media.audiofx.Equalizer`** attached to the `MediaPlayer` audio session.
 
@@ -111,7 +111,7 @@ This means band slider gain and shelf knob gain are **combined** before being wr
 
 ---
 
-## ⚠️ Known Limitations & Future Improvements
+## Known Limitations & Future Improvements
 
 **Known Limitations:**
 
@@ -135,7 +135,7 @@ This means band slider gain and shelf knob gain are **combined** before being wr
 
 ---
 
-## 🚀 Build & Run Instructions
+## Build & Run Instructions
 
 ### Prerequisites
 
