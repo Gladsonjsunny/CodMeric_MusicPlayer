@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Codmeric Music App</string>
+
+    <string name="dashBoard">My Music</string>
+    <string name="music_view">Music Details</string>
+    <string name="music_fav">My Favorites</string>
+    <string name="music_profile">My Profile</string>
+</resources>
