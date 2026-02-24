@@ -111,13 +111,6 @@ This means band slider gain and shelf knob gain are **combined** before being wr
 
 ---
 
-## 🤖 AI Tools Used
-
-**Claude (Anthropic)** was used as a development assistant during this project.
-All AI-generated code was reviewed, tested on a physical device, and verified before use.
-
----
-
 ## ⚠️ Known Limitations & Future Improvements
 
 **Known Limitations:**
